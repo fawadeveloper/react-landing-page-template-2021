@@ -6,6 +6,7 @@ const About = () => {
   const { company, about } = config;
   const { logo, name: companyName } = company;
   const { socialMedia, sections } = about;
+  // comment
 
   return (
     <div
